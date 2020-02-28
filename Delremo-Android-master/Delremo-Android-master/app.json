@@ -1,0 +1,45 @@
+
+
+{
+  "expo": {
+    "name": "DelREMO",
+    "slug": "DelREMO",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "https://res.cloudinary.com/delremo/image/upload/v1557320405/icon.png",
+      "color": "#800000",
+      "androidMode": "default",
+      "androidCollapsedTitle": "DelRemo" 
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.delta.delremo",
+      "buildNumber":"3"
+    },
+    "android": {
+      "package": "com.delta.delremo",
+      "versionCode": 1,
+       "googleServicesFile": "google-services.json"
+    }
+   
+  }
+}

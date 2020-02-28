@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990357161897",
+    "firebase_url": "https://delremo-bfcbf.firebaseio.com",
+    "project_id": "delremo-bfcbf",
+    "storage_bucket": "delremo-bfcbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990357161897:android:3b8b1276d483c01f",
+        "android_client_info": {
+          "package_name": "com.delta.delremo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990357161897-o9533sse9fsm0b71d0aurvb8mf2rqj4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWm3ek3qSC7Q6XT5Cu8fLsB27LBl0vY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990357161897-o9533sse9fsm0b71d0aurvb8mf2rqj4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
